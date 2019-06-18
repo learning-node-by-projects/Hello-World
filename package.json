@@ -8,5 +8,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Aman Raj",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learning-node-by-projects/Hello-World.git"
+  },
+  "bugs": {
+    "url": "https://github.com/learning-node-by-projects/Hello-World/issues"
+  },
+  "homepage": "https://github.com/learning-node-by-projects/Hello-World"
 }
